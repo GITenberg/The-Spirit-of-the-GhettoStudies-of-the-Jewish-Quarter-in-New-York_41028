@@ -1,0 +1,38 @@
+_repo: The-Spirit-of-the-GhettoStudies-of-the-Jewish-Quarter-in-New-York_41028
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Epstein, Jacob
+    alias: Epstein, Jacob, Sir
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '40939'
+    url: http://www.gutenberg.org/2009/agents/40939
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hapgood, Hutchins
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '32202'
+    url: http://www.gutenberg.org/2009/agents/32202
+description: ''
+gutenberg_issued: '2012-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41028'
+  lccn: '02027222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lower East Side (New York, N.Y.) -- Intellectual life'
+- !lcsh 'New York (N.Y.) -- Intellectual life'
+- !lcsh 'Jews -- New York (State) -- New York -- Intellectual life'
+- !lcc 'F106'
+- !lcsh 'Jews -- New York (State) -- New York'
+title: 'The Spirit of the Ghetto: Studies of the Jewish Quarter in New York'
+url: http://www.gutenberg.org/ebooks/41028
